@@ -2,12 +2,14 @@
 
 I am a third year Mathematics student in Aalto University, Finland 🇫🇮. My passions include all kinds of maths from analysis to algebra 🧮, computer science and programming 🤖. I love to learn new things within all kinds of subjects, and I always try to find new and interesting things 🤔.
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 
+<img align="left" height="48" width="48" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img align="left" height="48" width="48" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />
+<img align="left" height="48" width="48" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
+<img align="left" height="48" width="48" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
+<img align="left" height="48" width="48" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+
+<br />
 <br />
 <br />
 
