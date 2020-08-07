@@ -6,14 +6,21 @@ I am a third year Mathematics student in Aalto University, Finland 🇫🇮. My 
 <img align="left" height="48" width="48" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
 <img align="left" height="48" width="48" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />
 <img align="left" height="48" width="48" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png" />
+<img align="left" height="48" width="48" src="https://raw.githubusercontent.com/github/explore/master/topics/matlab/matlab.png" />
+<img align="left" height="48" width="48" src="https://raw.githubusercontent.com/github/explore/master/topics/scala/scala.png" />
+<img align="left" height="48" width="48" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" />
+<img align="left" height="48" width="48" src="https://raw.githubusercontent.com/github/explore/master/topics/latex/latex.png" />
 <img align="left" height="48" width="48" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
 <img align="left" height="48" width="48" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+<img align="left" height="48" width="48" src="https://raw.githubusercontent.com/github/explore/master/topics/atom/atom.png" />
+<img align="left" height="48" width="48" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png" />
+
 
 <br />
 <br />
 <br />
 
-- 🔭 I’m currently working on my Bachelors thesis
+- 🔭 I’m currently working on my Bachelor's thesis
 - 🌱 I’m currently learning Data Structures and Algorithms, coding theory, and cybersecurity
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: My favourite Star Wars movie is Empire Strikes Back
