@@ -5,7 +5,7 @@ I am a third year Mathematics student in Aalto University, Finland 🇫🇮. My 
 ### About me
 - 🔭 I’m currently working on my Bachelor's thesis
 - 🌱 I’m currently learning Data Structures and Algorithms, coding theory, and cybersecurity
-- 😄 Pronouns: He / Him
+- 😄 Pronouns: he / him
 - ⚡ Fun fact: My favourite Star Wars movie is Empire Strikes Back
 
 ### Technologies and tools
