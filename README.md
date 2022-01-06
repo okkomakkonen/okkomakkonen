@@ -3,7 +3,7 @@
 I am a third year Mathematics student in Aalto University, Finland 🇫🇮. My passions include all kinds of maths from analysis to algebra 🧮, computer science and programming 🤖. I love to learn new things within all kinds of subjects, and I always try to find new and interesting things 🤔. I am an advocate for open source technologies 📜. 
 
 ### About me
-- 🌱 I’m currently researching secure distributed matrix multiplication and learning algebraic geometry.
+- 🌱 I’m currently researching secure distributed matrix multiplication and learning differential geometry.
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: My favourite Star Wars movie is Empire Strikes Back
 
