@@ -6,6 +6,7 @@ I am a fourth year Mathematics student in Aalto University, Finland 🇫🇮. My
 - 🌱 I’m currently researching secure distributed matrix multiplication and learning matroid theory and real analysis.
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: My favourite Star Wars movie is Empire Strikes Back
+- 🏠 Check out my website at [okkomakkonen.fi](https://okkomakkonen.fi), it is hosted on GitHub Pages!
 
 ### Technologies and tools
 
